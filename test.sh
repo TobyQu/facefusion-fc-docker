@@ -1,0 +1,1 @@
+curl -X GET "http://127.0.0.1:9000/predict?source_url=https%3A%2F%2Fimg0.baidu.com%2Fit%2Fu%3D1440653884%2C900796639%26fm%3D253%26fmt%3Dauto%26app%3D138%26f%3DJPEG%3Fw%3D751%26h%3D500" -H "x-fc-request-id: 12345" -o result.jpeg
